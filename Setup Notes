@@ -1,0 +1,11 @@
+Follow the below link for installation on unix / OSX. I have installed it on unix
+http://developer.parrot.com/docs/SDK3/#required-external-tools
+Tasks: 
+1. Install tools required
+2. install git
+3. checkout the repos
+4. sync the repos
+5. build sdk
+6. run some samples to test the build
+7. 
+
