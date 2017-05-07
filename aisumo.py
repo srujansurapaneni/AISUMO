@@ -1,3 +1,5 @@
+# Module 1: Gaining access to the controls
+
 #Execute the following in the python terminal one after the other
 import sumo
 
@@ -17,4 +19,8 @@ cnt.jump(0.5)
 
 #posture from 0-2 (decimal/int format)
 cnt.posture(0.5)
+
+# Module 2: Gain access to the camera and data collection for analysis
+
+
 
